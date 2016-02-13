@@ -12,7 +12,7 @@ RSpec Best Practices website is tested against MRI 1.9.3.
     git clone git@github.com:andreareginato/betterspecs.git
     cd betterspecs
     bundle install
-    nanoc3 aco
+    sudo nanoc3 aco
 
 ## Resources
 
